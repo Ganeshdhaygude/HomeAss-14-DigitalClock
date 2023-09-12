@@ -13,6 +13,7 @@ hrs minutes and seconds.
 by using functions like newDate().gethours() we get the current hours .
 same for minutes and seconds.
 we set the time out functions to update the clock with certain time .
+
 CSS:
 By using css we applied the different css property to our webpage.
 we used background image , color, margin ,padding and different style as well.
